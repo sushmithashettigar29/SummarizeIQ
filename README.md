@@ -18,7 +18,7 @@
 ## Demo
 
 Since the app is not deployed, a **demo video** is available in the repository.
-
+[Watch the Demo on YouTube](https://youtu.be/pVsfAzyeVDM)
 ---
 
 ## Tech Stack
